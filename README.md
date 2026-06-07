@@ -5,7 +5,4 @@ I'm Alesandra, a Computer Science student at UMass Lowell with a creative mind a
 ## 💻 My Projects:
 
 * Programming in C++
-   * AniPlaying -
-   * DNA Sequence Alignment -
-   * Log Parser -
-   * Markov Chain Text Generator - 
+   [AniPlaying](https://github.com/lujan21/AniPlayer)
