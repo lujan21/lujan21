@@ -5,6 +5,5 @@ I'm Alesandra, a Computer Science student at UMass Lowell with a creative mind a
 ## 💻 My Projects:
 
 * Programming in C++
-  
-   [AniPlaying](https://github.com/lujan21/AniPlayer)  &nbsp;
-[Log Parser](https://github.com/lujan21/Log-Parser)
+  * [AniPlaying](https://github.com/lujan21/AniPlayer)
+  * [Log Parser](https://github.com/lujan21/Log-Parser)
