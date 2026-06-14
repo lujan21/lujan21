@@ -8,4 +8,4 @@ I'm Alesandra, a Computer Science student at UMass Lowell with a creative mind a
   * [AniPlaying](https://github.com/lujan21/AniPlayer)
   * [Log Parser](https://github.com/lujan21/Log-Parser)
   * [Randwriter](https://github.com/lujan21/randwriter)
-  * [DNA Alignment] (https://github.com/lujan21/dna-alignment)
+  * [DNA Alignment](https://github.com/lujan21/dna-alignment)
